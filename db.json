@@ -1,6 +1,5 @@
 {
   "icecream": [
-    [
       {
         "id": 1,
         "name": "Dark Chocolate",
@@ -41,7 +40,6 @@
         "Price": 350,
         "Stock": 10
       }
-    ]
   ],
   "other": [],
   "users": [],
