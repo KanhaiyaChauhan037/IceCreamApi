@@ -3,42 +3,42 @@
       {
         "id": 1,
         "name": "Dark Chocolate",
-        "Flavor": "Chocolate",
-        "Description": "Rich, creamy chocolate ice cream.",
-        "Price": 250,
-        "Stock": 10
+        "flavor": "Chocolate",
+        "description": "Rich, creamy chocolate ice cream.",
+        "price": 250,
+        "stock": 10
       },
       {
         "id": 2,
         "name": "Classic Vanilla",
-        "Flavor": "Vanilla",
-        "Description": "Classic vanilla ice cream.",
-        "Price": 200,
-        "Stock": 15
+        "flavor": "Vanilla",
+        "description": "Classic vanilla ice cream.",
+        "price": 200,
+        "stock": 15
       },
       {
         "id": 3,
         "name": "Neapolitan",
-        "Flavor": "Strawberry",
-        "Description": "Fresh and fruity strawberry ice cream.",
-        "Price": 300,
-        "Stock": 8
+        "flavor": "Strawberry",
+        "description": "Fresh and fruity strawberry ice cream.",
+        "price": 300,
+        "stock": 8
       },
       {
         "id": 4,
         "name": "Dark Chocolate",
-        "Flavor": "Strawberry",
-        "Description": "Fresh and fruity strawberry ice cream.",
-        "Price": 250,
-        "Stock": 3
+        "flavor": "Strawberry",
+        "description": "Fresh and fruity strawberry ice cream.",
+        "price": 250,
+        "stock": 3
       },
       {
         "id": 5,
         "name": "Neapolitan",
-        "Flavor": "Vanilla",
-        "Description": "Classic vanilla ice cream.",
-        "Price": 350,
-        "Stock": 10
+        "flavor": "Vanilla",
+        "description": "Classic vanilla ice cream.",
+        "price": 350,
+        "stock": 10
       }
   ],
   "other": [],
